@@ -31,7 +31,7 @@ async def start(event):
                          Button.url('🔥 OWNER', 'https://t.me/wisula4'), 
                       ], 
                       [
-                        Button.url('➕ ADD ME TO YOUR GROUP', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
+                        Button.url('➕ ADD ME TO YOUR GROUP', 'https://t.me/epictagbot?startgroup=true'),   
                       ]
                    ), 
                     link_preview=False
@@ -48,7 +48,7 @@ async def help(event):
                          Button.url('🔥 OWNER', 'https://t.me/wisula4'), 
                       ], 
                       [
-                        Button.url('➕ ADD ME TO YOUR GROUP', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
+                        Button.url('➕ ADD ME TO YOUR GROUP', 'https://t.me/epictagbot?startgroup=true'),   
                       ]
                    ), 
                     link_preview=False
